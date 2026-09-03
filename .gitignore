@@ -1,0 +1,20 @@
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+*.slx.r*
+*.slx.original
+codegen/
+*.mex*
+
+# Word / Office temp files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
