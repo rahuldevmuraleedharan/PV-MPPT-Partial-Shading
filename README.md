@@ -1,10 +1,5 @@
 # Maximizing Power Efficiency of PV Modules Under Partial Shaded Conditions
 
-ME dissertation (Electrical Engineering, Automatic Control & Robotics), submitted to The Maharaja Sayajirao University of Baroda, Faculty of Technology and Engineering, July 2024.
-
-**Author:** Nair Rahuldev Muraleedharan
-**Guide:** Dr. Jagrut Gadit — **Co-guide:** Ms. Kinjal Patel
-
 ## Overview
 
 Partial shading causes non-linear, multi-peaked I-V curves in PV arrays, which makes conventional MPPT methods lose significant power. This thesis benchmarks four metaheuristic MPPT algorithms — Particle Swarm Optimization (PSO), Grey Wolf Optimization (GWO), Flying Squirrel Search Optimization (FSSO), and Drone Squadron Optimization (DSO) — against conventional Perturb & Observe (P&O), on a 3×3 Total-Cross-Tied PV array built from Adani Eternal Shine 540 Wp monofacial PERC modules.
@@ -24,3 +19,10 @@ Each algorithm was simulated in MATLAB R2024a across six shading patterns (row, 
 - Adaptive/real-time tuning of DSO parameters
 - Field validation on a physical PV array
 - Smart-grid integration and predictive/forecasting control
+
+ME dissertation (Electrical Engineering, Automatic Control & Robotics), submitted to The Maharaja Sayajirao University of Baroda, Faculty of Technology and Engineering, July 2024.
+
+**Author:** Nair Rahuldev Muraleedharan
+
+**Guide:** Dr. Jagrut Gadit — **Co-guide:** Ms. Kinjal Patel
+
