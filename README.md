@@ -19,10 +19,10 @@ Each algorithm was simulated in MATLAB R2024a across six shading patterns (row, 
 - Adaptive/real-time tuning of DSO parameters
 - Field validation on a physical PV array
 - Smart-grid integration and predictive/forecasting control
----
+
 ME dissertation (Electrical Engineering, Automatic Control & Robotics), submitted to The Maharaja Sayajirao University of Baroda, Faculty of Technology and Engineering, July 2024.
 
 **Author:** Nair Rahuldev Muraleedharan
 
 **Guide:** Dr. Jagrut Gadit — **Co-guide:** Ms. Kinjal Patel
----
+
